@@ -1,0 +1,3 @@
+# Netlify redirects file
+# Fallback all routes to index.html for SPA routing
+/*    /index.html   200
